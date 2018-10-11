@@ -17,7 +17,7 @@ git clone git https://github.com/BigDeviltjj/mxnet-detnet.git
 
 ### demo
 
-not implemented currently.
+will update soon.
 
 ### train the model
 
@@ -27,11 +27,11 @@ python train_end2end.py
 
 ### evaluate the model
 
-not implemented currently.
+```
+python test.py
+```
+this part may has bug since training process hasn't finished
 
-### any other functions you might need
-
-not implemented currently.
 
 ### TODO
 
